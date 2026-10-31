@@ -4,10 +4,10 @@ This public repository has the same name as the account, so GitHub displays its 
 
 ## Content
 
-- Edit `README.md` for biography, links, skills, projects, and publications.
+- Edit `README.md` for the short About Me lines and social links. Keep detailed research, projects, and publications on the academic website instead.
 - Edit the typing lines and badge appearance in `profile.json`, then run `node scripts/refresh-static-assets.mjs` with Node.js 22 or newer. Commit the updated SVGs. This command does not need a GitHub token.
-- Publication information comes from the October 24, 2026 CV. NFWM's workshop acceptance and full-manuscript review are separate statuses. Add paper/code/project links only when publicly accessible.
-- Add actual projects and confirmed skills; avoid inferring proficiency from the language card.
+- Personal information comes from the October 24, 2026 CV and confirmed research interests. Keep the Penn affiliation as a master's student, not a research assistant.
+- Avoid inferring proficiency from the language card.
 
 ## Automatic assets
 
@@ -19,7 +19,9 @@ Failed generation stops before committing, so the last successful assets remain 
 
 ## Rendering checks
 
-After changes, check https://github.com/peter-lizijia in both themes and on a narrow screen. Check that all badges, both cards, and the snake load. The snake is a pre-rendered animation, not a playable game. The expandable research loop is native GitHub Markdown.
+After changes, check https://github.com/peter-lizijia in both themes and on a narrow screen. Check that all badges, both cards, and the snake load. The snake is a pre-rendered animation, not a playable game.
+
+GitHub's native Contribution activity feed is separate from this README. Profile privacy settings affect several GitHub features together; do not change account privacy just to edit the README.
 
 ## Credits
 
