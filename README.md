@@ -3,8 +3,8 @@
 **MSE in Data Science at Penn · GMLR, GRASP Lab**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peter-lizijia/peter-lizijia/main/assets/typing-dark.svg">
-  <img src="https://raw.githubusercontent.com/peter-lizijia/peter-lizijia/main/assets/typing-light.svg" alt="$ learning to model the world; $ predict. plan. repeat.; $ turning curiosity into experiments" width="540" height="48">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peter-lizijia/peter-lizijia/main/assets/typing-dark.svg?v=2">
+  <img src="https://raw.githubusercontent.com/peter-lizijia/peter-lizijia/main/assets/typing-light.svg?v=2" alt="$ learning to model the world; $ predict. plan. repeat.; $ curiosity -> experiments" width="360" height="48">
 </picture>
 
 [![Homepage](https://raw.githubusercontent.com/peter-lizijia/peter-lizijia/main/assets/homepage.svg)](https://peter-lizijia.github.io/)

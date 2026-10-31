@@ -4,13 +4,13 @@
     "lines": [
       "$ learning to model the world",
       "$ predict. plan. repeat.",
-      "$ turning curiosity into experiments"
+      "$ curiosity -> experiments"
     ],
     "font": "Fira Code",
     "size": 18,
     "duration": 3200,
     "pause": 1500,
-    "width": 540,
+    "width": 360,
     "height": 48,
     "vCenter": true
   },
