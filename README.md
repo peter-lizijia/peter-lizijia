@@ -46,12 +46,12 @@ Workshop version accepted at **CoRL 2026 LEAP Workshop**. Full manuscript under 
 ## On GitHub
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peter-lizijia/peter-lizijia/main/assets/stats-dark.svg">
-  <img src="https://raw.githubusercontent.com/peter-lizijia/peter-lizijia/main/assets/stats-light.svg" alt="GitHub activity statistics, updated daily" width="390">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peter-lizijia/peter-lizijia/main/assets/stats-dark.svg?v=1">
+  <img src="https://raw.githubusercontent.com/peter-lizijia/peter-lizijia/main/assets/stats-light.svg?v=1" alt="GitHub activity statistics, updated daily" width="390">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peter-lizijia/peter-lizijia/main/assets/languages-dark.svg">
-  <img src="https://raw.githubusercontent.com/peter-lizijia/peter-lizijia/main/assets/languages-light.svg" alt="Most-used languages in public repositories, updated daily" width="390">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peter-lizijia/peter-lizijia/main/assets/languages-dark.svg?v=1">
+  <img src="https://raw.githubusercontent.com/peter-lizijia/peter-lizijia/main/assets/languages-light.svg?v=1" alt="Most-used languages in public repositories, updated daily" width="390">
 </picture>
 
 <sub>Public GitHub activity only. Language percentages reflect repository source bytes, not proficiency.</sub>
@@ -59,8 +59,8 @@ Workshop version accepted at **CoRL 2026 LEAP Workshop**. Full manuscript under 
 ### One contribution at a time
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peter-lizijia/peter-lizijia/main/assets/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/peter-lizijia/peter-lizijia/main/assets/snake-light.svg" alt="A snake tracing my GitHub contribution graph" width="830">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peter-lizijia/peter-lizijia/main/assets/snake-dark.svg?v=1">
+  <img src="https://raw.githubusercontent.com/peter-lizijia/peter-lizijia/main/assets/snake-light.svg?v=1" alt="A snake tracing my GitHub contribution graph" width="830">
 </picture>
 
 <details>
