@@ -1,0 +1,25 @@
+{
+  "username": "peter-lizijia",
+  "typing": {
+    "lines": [
+      "$ learning to model the world",
+      "$ predict. plan. repeat.",
+      "$ turning curiosity into experiments"
+    ],
+    "font": "Fira Code",
+    "size": 18,
+    "duration": 3200,
+    "pause": 1500,
+    "width": 540,
+    "height": 48,
+    "vCenter": true
+  },
+  "colors": { "light": "0F766E", "dark": "5EEAD4" },
+  "badges": {
+    "homepage": { "label": "Homepage", "color": "334155", "logo": null },
+    "scholar": { "label": "Google Scholar", "color": "2563EB", "logo": "googlescholar" },
+    "linkedin": { "label": "LinkedIn", "color": "0A66C2", "logo": null },
+    "email": { "label": "Email", "color": "0F766E", "logo": null },
+    "x": { "label": "X / Twitter", "color": "30363D", "logo": "x" }
+  }
+}
